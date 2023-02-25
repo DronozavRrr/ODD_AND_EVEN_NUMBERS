@@ -1,1 +1,2 @@
-# ODD_AND_EVEN_NUMBERS
+"libraryforchetnechet.h" - заголовочный файл проекта.
+"libraryforchetnechet.cpp" - файл реализации заголовочного файла.
